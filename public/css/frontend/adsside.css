@@ -1,0 +1,26 @@
+/*--- ads-Side  ---*/
+#ads-left{  
+    float:left;    
+    left: 5px;
+        
+}
+.ads-img{
+    width: 165px;
+}
+
+#ads-right{
+    float: right;
+    width: 165px;
+    right: 5px;
+    
+}
+
+.ads {
+    position: absolute;    
+    top: 30px;
+    
+}
+
+.zindex {
+    z-index: -999;
+}

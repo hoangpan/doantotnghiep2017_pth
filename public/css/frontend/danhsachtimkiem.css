@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2 .skeyword{
+	color:#FF0;
+	text-transform:none;
+}
+
+
+.pagination {
+    margin: 10px auto;  
+}
+
+#pagination {
+    float: right;
+    margin-right: 20px;
+  
+}
+	
+#pagination div{
+    float: left;
+	padding-right: 5px;       
+}
+
+#pagination div a{
+    text-decoration: none;      
+}    	

@@ -1,0 +1,10 @@
+#goTop {
+	bottom: 15px;
+	cursor: pointer;
+	display: none;	
+	position: fixed;
+	right: 5px;
+	width: 45px;
+	height: 45px;
+	z-index: 1000;
+}
